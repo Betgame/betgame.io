@@ -30,8 +30,9 @@
 					</div>
 
 				</div>
-
-				<button class="btn btn-buy" :disabled="true">Buy tokens</button>
+				<a class="btn btn-buy" href="https://beta.wavesplatform.com/dex?assetId2=4efh3kkvzqPgALLVjgk7XPjnXHsuUCgDwHCnPfLcg6VN&assetId1=WAVES" target="_blank">
+					Buy tokens
+				</a>
 				<button class="btn btn-buy" :disabled="true">Beta version</button>
 			</b-col>
 
